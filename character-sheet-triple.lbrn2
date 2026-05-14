@@ -45,7 +45,7 @@
         <tabCount Value="1"/>
         <tabCountMax Value="1"/>
     </CutSetting>
-    <CutSetting type="Cut">
+    <CutSetting type="Scan">
         <index Value="3"/>
         <name Value="C03"/>
         <maxPower Value="20"/>
